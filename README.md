@@ -10,3 +10,11 @@ https://itigic.com/ru/configure-openssh-server-on-linux-with-maximum-security/
 
 Пример конфига ниже
 
+## Утилита screen
+https://losst.ru/komanda-screen-linux
+
+1) создаем с именем `sh screen -S name`
+2) открываем с именем `sh screen -r name`
+3) отключить окно (когда клиент по SSH отваливается помагает) `sh screen -d name`
+4) Свернуть окно Ctrl+A D
+
